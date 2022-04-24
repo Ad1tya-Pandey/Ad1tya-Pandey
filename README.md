@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **adityapandey.smtp@gmail.com**
 
-- ⚡ Fun fact **The stack of skills one can learn never overflows**
+- ⚡ Fun fact **-The stack of skills one can learn never overflows**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
