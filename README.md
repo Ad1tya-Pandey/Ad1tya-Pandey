@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Pandey</h1>
 <h3 align="center">The goal is to Find and fix as much bugs as possible</h3>
 
-- 🌱 I’m currently learning **Data Structures and Algorithm, Bash scripting, Web application Penetration Testing.**
+- 🌱 I’m currently learning about **Devops Methodologies and Cloud Infrastructure** 
 
 - 📫 How to reach me **adityapandey.smtp@gmail.com**
 
